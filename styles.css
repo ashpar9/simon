@@ -18,11 +18,12 @@ body {
 }
 
 .start {
+  margin-top: 70px;
   font-style: Arial;
   font-size: 20px;
   font-weight: bold;
-  height: 50px;
-  width: 100px;
+  height: 75px;
+  width: 125px;
   border: 10px solid white;
   color: black;
   background-color: white;
